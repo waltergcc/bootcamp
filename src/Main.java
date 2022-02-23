@@ -49,7 +49,6 @@ public class Main {
         System.out.println("Conteúdos Concluídos " + devThalita.getConteudosConcluidos());
         System.out.println("XP: " + devThalita.calcularTotalXp());
 
-
     }
 
 }
